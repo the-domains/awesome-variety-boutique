@@ -1,19 +1,4 @@
-name: Awesome Variety Boutique
-favicon: null
-layout_spectrum: 0.44928120309486985
-typography_spectrum: 0.6879681788850576
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#3C493F'
@@ -23,6 +8,11 @@ color:
     - '#A2E3C4'
   brandStrength: 0.00207572802901268
   lightness: 0.6050422792322934
-  saturation: 0.8988873281050473
   rhythmicContrast: 0.9729421127121896
+  saturation: 0.8988873281050473
+cta: {}
+layout_spectrum: 0.016047
+name: Awesome Variety Boutique
+opengraph: {}
 purpose: []
+typography_spectrum: 0.6879681788850576
